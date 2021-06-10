@@ -1,0 +1,16 @@
+.italic {
+font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+a {
+    color: rgb(0, 0, 0) !important;
+}
+.brows {
+    font-style: italic;
+    font-weight: bold;
+}
+.or {
+    text-decoration: none;
+}
