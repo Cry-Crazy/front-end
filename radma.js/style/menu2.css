@@ -1,0 +1,33 @@
+.menu_two{
+    background-color:rgb(255, 255, 255) ;
+    height: 330px;
+    width: 250px;
+    margin-left: 10%;
+    margin-right: 0%;
+    float: left;
+    margin-top: 20px;
+
+}
+.ul_two{
+    padding: 0%;
+    margin: 0%;
+}
+.li_two{
+    list-style-type: none;
+    width: auto;
+    display: inline-block;
+    padding: 20px 23px;
+}
+.a_two{
+    color: #485863;
+    text-decoration: none;
+    font-size: 22px;
+    padding:20px 23px; 
+    text-align: center;
+}
+.li_two:hover{
+   background:#dbdbdb;
+}
+.a_two:hover{
+    color: black;
+}
